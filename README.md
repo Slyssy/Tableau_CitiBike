@@ -13,7 +13,7 @@ We analyzed data using the Citibike Trip Data for Jersey City. The time frame fo
 Finding #1: Riders per Month
 
 -- January and February had medium levels of riders using this service. This level of ridership can be explained by lower temperatures associated with the colder temperatures associated with January and February. We did notice a decrease in ridership between February and March which the opposite of what one might expect. April ridership was even lower than March. This finding corresponds city shutdown due to the Covid-19 pandemic. The data also indicates a sharp increase in ridership starting in May which corresponds with the re-opening. By June, ridership had increased to nearly 37,000 riders. To get an idea of the impact of Covid-19 on overall ridership we only need to look at the ridership in April (9,268) and compare it to June (36,921). This trend is consistent through all "Start Stations" through out the Jersey City Service Area. <br><br>
-![Riders_per_Month](images/riders_per_month.png)
+![Riders_per_Month](/images/riders_per_month.png)
 
 Finding #2: Start Station Usage
 
